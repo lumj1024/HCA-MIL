@@ -1,9 +1,6 @@
 
-<h2 align="center">HCA-MIL: Hierarchical Cross-Granularity Attention Enhanced Multiple Instance Learning for Leukemia Subtyping</h2>
+<h2 align="center">HCA-MIL: Hierarchical Cross-Granularity Attention Enhanced Multiple Instance Learning for Leukemia Subtyping(CVPR2026)</h2>
 
-<p align="center">
-  <b>Our work has been accepted by <i>CVPR 2026</i>!<br>
-</p>
 
 ## Overview
 <p align='center'>
