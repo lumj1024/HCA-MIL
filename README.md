@@ -7,7 +7,7 @@
 
 ## Overview
 <p align='center'>
-    <img src="figures/fig1.png" width="86%" height="86%">
+    <img src="figures/network.png" width="86%" height="86%">
 </p>
 
 **Figure 1. Overview of the proposed pipeline. (a) Flow diagram of cell sample preparation and analysis. Scale bar: 10 µm. (b) Flow diagram of the frequency vision Mamba.**
