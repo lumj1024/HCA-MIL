@@ -40,5 +40,5 @@ python train.py
 Modify the paths in lines 331 to 380 of the test.py, then simply run:
 
 ```python
-python eval.py
+python Test.py
 ```
